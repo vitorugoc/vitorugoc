@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vitor Hugo
 
-- 🔭 Hoje trabalho como Front-End
+- 🔭 Hoje trabalho como Full-Stack
 - 😄 Pronouns: ele/dele
 
 <div align="left">
