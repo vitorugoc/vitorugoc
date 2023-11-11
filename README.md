@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Vitor Hugo
 
 - 🔭 Hoje trabalho como Full-Stack
-- 😄 Pronouns: ele/dele
 
 <div align="left">
   <a href="https://github.com/vitorugoc">
